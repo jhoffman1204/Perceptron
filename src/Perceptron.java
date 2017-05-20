@@ -8,6 +8,10 @@ import java.util.Scanner;
  */
 public class Perceptron
 {
+    /**
+     * Note to self to change the way this is implemented
+     */
+
     public String[] inputVector = new String[10000];
     /**
      *  going to store the weight values for all of the words
